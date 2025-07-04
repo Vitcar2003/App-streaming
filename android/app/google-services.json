@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "853301876115",
+    "project_id": "prueba-73044",
+    "storage_bucket": "prueba-73044.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853301876115:android:dcb4b9f271925a142e4466",
+        "android_client_info": {
+          "package_name": "com.iptv.azul"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoadQPzM-Wt8oT0EsiqcC94649F2i_Tfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

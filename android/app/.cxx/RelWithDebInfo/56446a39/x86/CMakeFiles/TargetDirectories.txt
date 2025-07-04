@@ -1,0 +1,2 @@
+C:/Users/Miguel/Music/prueba L/Prueba C/android/app/.cxx/RelWithDebInfo/56446a39/x86/CMakeFiles/edit_cache.dir
+C:/Users/Miguel/Music/prueba L/Prueba C/android/app/.cxx/RelWithDebInfo/56446a39/x86/CMakeFiles/rebuild_cache.dir
